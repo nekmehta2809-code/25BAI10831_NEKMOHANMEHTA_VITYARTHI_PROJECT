@@ -1,6 +1,6 @@
-# 25BAS10052_RudraMishra_VITBHOPAL_VITYATHIPROJECT-2025-26
+# 25BAI10831_NEKMOHANMEHTA_VITYARTHI_PROJECT
 
-#  VmazON E-commerce Application
+#  EC-COM CONSOLE E-commerce Application
 
 This is a basic, console-based E-commerce simulation project written in Python. It allows users to register, log in, view available products, add items into a cart, place orders, and check their order status. It also provides a basic distributor view for inventory and customer orders.
 
