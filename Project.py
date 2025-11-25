@@ -1,5 +1,5 @@
 #Python project - E commerce
-print("WELCOME TO VMAZON!")
+print("WELCOME TO EC-COM CONSOLE!")
 import csv
 #Services provided:
 #1) FOR CUSTOMER - a)BROWSE - ORDER/ADD TO KART b)CANCEL ORDER c)MY ORDERS
@@ -249,6 +249,7 @@ def customer():
     #ORDER CHECK
     if service.lower() == 'orders':
         print('Your orders:',to_order)
+    print("Thanks for shoppin with us!!!")
 
 def distributor():
     global products
@@ -269,9 +270,10 @@ elif ud.lower() =='distributor' and login_successful == True:
     distributor()
 else:
     print("Invalid Action")
+
         
     
     
-    
+
 
 
